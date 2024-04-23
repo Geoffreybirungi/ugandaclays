@@ -1,0 +1,188 @@
+
+.advisory {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 17vh;
+    padding: 0 9% 0 9%;
+    color: #9b9b9b;
+    background-color: #1b1515;
+}
+
+.adv-1 a {
+    text-decoration: none;
+    color: #9b9b9b;
+}
+
+.adv-1 a:first-child {
+    color: #e76e0a;
+}
+
+.adv-1 a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.adv-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.adv-3 {
+    width: 60%;
+    height: 70vh;
+}
+
+.adv-3 img {
+    width: 100%;
+    height: auto;
+}
+
+.adv-3 p {
+    word-spacing: 5px;
+    line-height: 1.5;
+}
+
+.adv-3 h3 {
+    word-spacing: 5px;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.adv-4 {
+    width: 25%;
+    height: 70vh;
+    padding: 2%;
+    margin-left: 3%;
+    box-shadow: 0 1px 4px black;
+}
+
+.adv-4 h4 {
+    margin-top: 5%;
+}
+
+.adv-4 h3 {
+    margin-top: 6%;
+}
+
+.adv-4 p {
+    line-height: 2.0;
+}
+
+.adv-4 p input {
+    height: 6vh;
+    width: 50%;
+    margin-top: 4%;
+}
+
+.adv-4 p input:focus {
+    background-color: #9b9b9b;
+    color: #1b1515;
+}
+
+.adv-4 p button {
+    width: 30%;
+    height: 6vh;
+    border-radius: 5px;
+    border: 2px solid #1b1515;
+    text-transform: uppercase;
+    background-color: #e76e0a;
+    color: white;
+}
+
+.adv-4 p button:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    background-color: #1b1515;
+}
+
+.adv-4 p a {
+    text-decoration: none;
+    color: black;
+}
+
+.adv-4 p a:hover {
+    color: #e76e0a;
+    text-decoration: underline;
+}
+
+.adv-4 p a#a1 {
+    color: #e76e0a;
+}
+
+.cont {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 3% 10% 3% 10%;
+}
+
+.cont h1, .cont h3 {
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    padding-bottom: 2%;
+}
+
+.cont p {
+    word-spacing: 5px;
+    line-height: 2.0;
+}
+
+.down {
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-bottom: 4%;
+}
+
+.down-1 {
+    width: 30%;
+    text-align: center;
+    padding: 3% 3% 0 3%;
+    height: 31vh;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px #1b1515;
+}
+
+.down-1 h3 {
+    margin-bottom: 2%;
+}
+
+.down-1 p {
+    line-height: 1.5;
+}
+
+.advisory{
+    width: 30%;
+    margin-left: 35%;
+    background-color: maroon;
+    color: white;
+    padding: 2%;
+}
+.top{
+    background-color: maroon;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

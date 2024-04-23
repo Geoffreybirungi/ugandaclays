@@ -1,0 +1,115 @@
+
+.pdt {
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    width: 100%;
+    padding: 2%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.pdt-1, .pdt-2 {
+    width: 45%;
+    padding:  0 2% 0 2%;
+}
+
+.pdt-2 {
+    margin-left: 2%;
+}
+
+.pdt-1 h2, .pdt-2 h2 {
+    word-spacing: 5px;
+    margin-bottom: 3%;
+}
+
+.pdt-1 p, .pdt-2 p {
+    line-height: 1.8;
+    word-spacing: 5px;
+}
+
+.bricks {
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    width: 100%;
+    padding: 2%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.brick {
+    width: 20%;
+    padding: 0.5%;
+    margin-left: 2%;
+    border-radius: 3px;
+    box-shadow: 0 2px 10px maroon;
+}
+
+.brick:first-child {
+    margin-left: 0;
+}
+
+.brick img {
+    width: 100%;
+    height: auto;
+}
+
+.brick h3 {
+    word-spacing: 5px;
+    text-align: center;
+    padding: 0 10% 0 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.advisory{
+    width: 30%;
+    margin-left: 35%;
+    background-color: maroon;
+    color: white;
+    padding: 2%;
+    border-radius: 15px;
+}
+
+.fac{
+    width: 30%;
+    margin-left: 35%;
+    background-color: maroon;
+    color: white;
+    padding: 2%
+    border-radius: 15px;
+
+}
+
+.top{
+    background-color: maroon;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
